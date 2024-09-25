@@ -2,6 +2,9 @@
 
 This project is a Java-based Sudoku solver and generator, providing a user-friendly graphical interface to interact with Sudoku puzzles. The application allows users to generate new puzzles, solve existing ones, and clear the board for new challenges.
 
+![image](https://github.com/user-attachments/assets/1be336ad-c34b-46a9-a144-f71c0037c2d8)
+
+
 ## Features
 
 - **Sudoku Generation**: Generate new Sudoku puzzles with a customizable number of empty cells.
